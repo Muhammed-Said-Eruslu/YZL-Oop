@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\bin\Debug\net8.0\01-OP-CLASS.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\bin\Debug\net8.0\01-OP-CLASS.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\bin\Debug\net8.0\01-OP-CLASS.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\bin\Debug\net8.0\01-OP-CLASS.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\bin\Debug\net8.0\01-OP-CLASS.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\01-OP-CLASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\01-OP-CLASS.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\01-OP-CLASS.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\01-OP-CLASS.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\01-OP-CLASS.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\refint\01-OP-CLASS.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\01-OP-CLASS.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\01-OP-CLASS.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\01-OP-CLASS\obj\Debug\net8.0\ref\01-OP-CLASS.dll

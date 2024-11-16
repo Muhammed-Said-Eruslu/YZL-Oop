@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\bin\Debug\net8.0\18-OOP-Serialeze.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\bin\Debug\net8.0\18-OOP-Serialeze.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\bin\Debug\net8.0\18-OOP-Serialeze.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\bin\Debug\net8.0\18-OOP-Serialeze.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\bin\Debug\net8.0\18-OOP-Serialeze.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\18-OOP-Serialeze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\18-OOP-Serialeze.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\18-OOP-Serialeze.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\18-OOP-Serialeze.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\18-OOP-Serialeze.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\refint\18-OOP-Serialeze.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\18-OOP-Serialeze.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\18-OOP-Serialeze.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\18-OOP-Serialeze\obj\Debug\net8.0\ref\18-OOP-Serialeze.dll

@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\bin\Debug\net8.0\03-OOP-Encapsulation.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\bin\Debug\net8.0\03-OOP-Encapsulation.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\bin\Debug\net8.0\03-OOP-Encapsulation.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\bin\Debug\net8.0\03-OOP-Encapsulation.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\bin\Debug\net8.0\03-OOP-Encapsulation.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\03-OOP-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\03-OOP-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\03-OOP-Encapsulation.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\03-OOP-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\03-OOP-Encapsulation.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\refint\03-OOP-Encapsulation.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\03-OOP-Encapsulation.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\03-OOP-Encapsulation.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\03-OOP-Encapsulation\obj\Debug\net8.0\ref\03-OOP-Encapsulation.dll

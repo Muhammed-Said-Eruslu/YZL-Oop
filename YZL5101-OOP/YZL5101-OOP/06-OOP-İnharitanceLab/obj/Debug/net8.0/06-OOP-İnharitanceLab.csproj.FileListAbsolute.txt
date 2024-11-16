@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\bin\Debug\net8.0\06-OOP-İnharitanceLab.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\bin\Debug\net8.0\06-OOP-İnharitanceLab.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\bin\Debug\net8.0\06-OOP-İnharitanceLab.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\bin\Debug\net8.0\06-OOP-İnharitanceLab.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\bin\Debug\net8.0\06-OOP-İnharitanceLab.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\06-OOP-İnharitanceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\06-OOP-İnharitanceLab.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\06-OOP-İnharitanceLab.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\06-OOP-İnharitanceLab.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\06-OOP-İnharitanceLab.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\refint\06-OOP-İnharitanceLab.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\06-OOP-İnharitanceLab.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\06-OOP-İnharitanceLab.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\06-OOP-İnharitanceLab\obj\Debug\net8.0\ref\06-OOP-İnharitanceLab.dll

@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\bin\Debug\net8.0\02-OOP-Constructor.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\bin\Debug\net8.0\02-OOP-Constructor.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\bin\Debug\net8.0\02-OOP-Constructor.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\bin\Debug\net8.0\02-OOP-Constructor.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\bin\Debug\net8.0\02-OOP-Constructor.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\02-OOP-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\02-OOP-Constructor.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\02-OOP-Constructor.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\02-OOP-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\02-OOP-Constructor.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\refint\02-OOP-Constructor.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\02-OOP-Constructor.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\02-OOP-Constructor.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\02-OOP-Constructor\obj\Debug\net8.0\ref\02-OOP-Constructor.dll

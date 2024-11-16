@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\bin\Debug\net8.0\04-OOP-LAB.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\bin\Debug\net8.0\04-OOP-LAB.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\bin\Debug\net8.0\04-OOP-LAB.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\bin\Debug\net8.0\04-OOP-LAB.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\bin\Debug\net8.0\04-OOP-LAB.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\04-OOP-LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\04-OOP-LAB.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\04-OOP-LAB.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\04-OOP-LAB.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\04-OOP-LAB.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\refint\04-OOP-LAB.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\04-OOP-LAB.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\04-OOP-LAB.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\04-OOP-LAB\obj\Debug\net8.0\ref\04-OOP-LAB.dll

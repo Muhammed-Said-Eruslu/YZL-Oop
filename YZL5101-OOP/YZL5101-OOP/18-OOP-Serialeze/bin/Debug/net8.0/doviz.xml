@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Doviz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <Name>ABD Doları</Name>
+  <Price>34.5</Price>
+</Doviz>

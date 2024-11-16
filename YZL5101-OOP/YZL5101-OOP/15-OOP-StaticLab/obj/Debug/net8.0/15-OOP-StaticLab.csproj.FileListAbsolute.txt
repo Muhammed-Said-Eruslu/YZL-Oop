@@ -1,0 +1,4 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\15-OOP-StaticLab\obj\Debug\net8.0\15-OOP-StaticLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\15-OOP-StaticLab\obj\Debug\net8.0\15-OOP-StaticLab.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\15-OOP-StaticLab\obj\Debug\net8.0\15-OOP-StaticLab.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\15-OOP-StaticLab\obj\Debug\net8.0\15-OOP-StaticLab.csproj.CoreCompileInputs.cache

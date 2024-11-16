@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\bin\Debug\net8.0\05-OOP-İnheritance.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\bin\Debug\net8.0\05-OOP-İnheritance.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\bin\Debug\net8.0\05-OOP-İnheritance.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\bin\Debug\net8.0\05-OOP-İnheritance.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\bin\Debug\net8.0\05-OOP-İnheritance.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\05-OOP-İnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\05-OOP-İnheritance.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\05-OOP-İnheritance.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\05-OOP-İnheritance.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\05-OOP-İnheritance.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\refint\05-OOP-İnheritance.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\05-OOP-İnheritance.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\05-OOP-İnheritance.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\05-OOP-İnheritance\obj\Debug\net8.0\ref\05-OOP-İnheritance.dll

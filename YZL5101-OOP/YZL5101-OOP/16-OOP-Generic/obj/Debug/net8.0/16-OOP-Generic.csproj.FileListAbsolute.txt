@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\bin\Debug\net8.0\16-OOP-Generic.exe
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\bin\Debug\net8.0\16-OOP-Generic.deps.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\bin\Debug\net8.0\16-OOP-Generic.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\bin\Debug\net8.0\16-OOP-Generic.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\bin\Debug\net8.0\16-OOP-Generic.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\16-OOP-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\16-OOP-Generic.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\16-OOP-Generic.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\16-OOP-Generic.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\16-OOP-Generic.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\refint\16-OOP-Generic.dll
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\16-OOP-Generic.pdb
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\16-OOP-Generic.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL5101-OOP\YZL5101-OOP\16-OOP-Generic\obj\Debug\net8.0\ref\16-OOP-Generic.dll
